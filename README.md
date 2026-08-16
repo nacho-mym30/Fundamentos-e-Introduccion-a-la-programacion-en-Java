@@ -1,2 +1,2 @@
-# Fundamentos-e-Introducci-n-a-la-programaci-n-en-Java
+# Fundamentos-e-Introduccion-a-la-programacion-en-Java
 Aprenderemos a programar usando Java
