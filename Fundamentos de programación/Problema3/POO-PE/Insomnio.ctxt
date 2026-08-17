@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Insomnio
+comment1.params=horaDor\ minDor
+comment1.target=int\ hrDormir(int,\ int)
+comment2.params=horaDes\ minDes
+comment2.target=int\ hrDespertar(int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

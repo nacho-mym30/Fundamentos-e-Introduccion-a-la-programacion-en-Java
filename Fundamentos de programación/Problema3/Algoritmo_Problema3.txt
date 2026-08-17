@@ -1,0 +1,9 @@
+Problema 3 - Insomnio
+
+Inicio
+1.- Hora de dormir => 2:45
+2.- Transformarlo en minutos => 165
+3.- Hora de despertar => 11:25
+4.- Transformarlo en minutos => 685
+5.- Calcular cuanto tiempo duermen => hora de despertar(min) - hora de dormir(min)
+Fin 

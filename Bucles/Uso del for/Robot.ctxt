@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Robot
+comment1.params=
+comment1.target=Robot()
+comment2.params=perimetro\ cantVueltas
+comment2.target=int\ cantEneGas(int,\ int)
+numComments=3

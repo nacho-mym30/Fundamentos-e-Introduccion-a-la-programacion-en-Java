@@ -1,0 +1,6 @@
+Problema 2 - CAMINO
+
+Inicio
+1.- Longitud línea punteada => 20
+2.- Calcular longitud línea negra => 2 * Longitud línea punteada
+Fin

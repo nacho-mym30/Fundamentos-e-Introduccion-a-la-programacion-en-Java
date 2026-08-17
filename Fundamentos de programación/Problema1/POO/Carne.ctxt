@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Carne
+comment1.params=blanda\ normal
+comment1.target=Carne(int,\ int)
+comment2.params=cantKilos
+comment2.target=int\ cantDinero(int)
+numComments=3
