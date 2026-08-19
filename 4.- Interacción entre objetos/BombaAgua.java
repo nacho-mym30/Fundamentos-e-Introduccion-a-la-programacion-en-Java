@@ -3,10 +3,6 @@ public class BombaAgua{
     private Turril turrilConectado;
     private TanqueAgua tanqueConectado;
     
-    public BombaAgua(int cantAguaTrans){
-        this.cantAguaTrans = cantAguaTrans;
-    }
-    
     public BombaAgua(){
         cantAguaTrans = 7;
     }
@@ -21,7 +17,7 @@ public class BombaAgua{
         tanqueConectado.setCantAgua(cantAguaTanque);
     }
     
-    public int cantBombVacTurril(){
+    public int cantBombeos(){
         int resp = 210 / cantAguaTrans;
         return resp;
     }
