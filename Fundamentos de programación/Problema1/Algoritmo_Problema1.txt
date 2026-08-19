@@ -1,0 +1,7 @@
+Problema 1 - CARNE
+
+Inicio
+1.- Precio kilo de carne blandita => 35bs
+2.- Precio kilo de carne normal => 30bs
+3.- Calcular dinero para 4 kilos de carne blandita => 35 * 4 
+Fin

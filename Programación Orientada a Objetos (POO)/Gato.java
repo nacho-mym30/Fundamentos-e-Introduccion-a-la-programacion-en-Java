@@ -9,11 +9,11 @@ public class Gato{
         nombre = nom;
     }
     
-    public double getPeso (){
+    public double getPeso(){
         return peso;
     }
     
-    public void setPeso (double pesoActual){
+    public void setPeso(double pesoActual){
         peso = pesoActual;
     }
 }
