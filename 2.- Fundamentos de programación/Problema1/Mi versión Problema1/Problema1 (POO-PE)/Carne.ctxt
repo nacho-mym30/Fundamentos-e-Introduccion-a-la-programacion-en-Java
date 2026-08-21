@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Carne
-comment1.params=blanda
-comment1.target=int\ carneBlanda(int)
-comment2.params=kilos
-comment2.target=int\ cantKilos(int)
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4
