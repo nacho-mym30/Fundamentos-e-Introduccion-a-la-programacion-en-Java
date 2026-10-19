@@ -6,13 +6,13 @@ public class DiasSemana{
         } else if(n == 2){
             resp = "Martes";
         } else if(n == 3){
-            resp = "Miercoles";
+            resp = "Miércoles";
         } else if(n == 4){
             resp = "Jueves";
         } else if(n == 5){
             resp = "Viernes";
         } else if(n == 6){
-            resp = "Sabado";
+            resp = "Sábado";
         } else if(n == 7){
             resp = "Domingo";
         } else {

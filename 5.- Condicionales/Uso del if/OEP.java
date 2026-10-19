@@ -1,4 +1,4 @@
-public class OEP{
+ public class OEP{
     public String verificar (Persona persona){
         String resp;
         int edadPersona = persona.getEdad();

@@ -1,17 +1,21 @@
 public class Robot{
-    private int energia;
+    private int energiaMax, energia;
     
-    public Robot(){
+    public Robot(int energiaMax){
+        this.energiaMax = energiaMax;
         energia = 0;
     }
     
-    public int cantEneGas(int perimetro, int cantVueltas){
-        int enerGas = energia;
-        int nVuelta = 1;
-        for(int i = 0; i < cantVueltas; i++){
-            enerGas = enerGas + (perimetro * nVuelta);
-            nVuelta = nVuelta + 1;
+    public void cargarEnergia(){
+        energia = energiaMax;
+    }
+    
+    public int cantVueltas(int perimetro){
+        int vueltas = 0;
+        for(int energiaNece = perimetro; energia >= energiaNece; energiaNece += perimetro){
+            energia -= energiaNece;
+            vueltas++;
         }
-        return enerGas;
+        return vueltas;
     }
 }

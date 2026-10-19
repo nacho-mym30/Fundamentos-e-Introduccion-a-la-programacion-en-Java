@@ -1,12 +1,12 @@
 public class Robot{
-    private int energiaMax, energia;
+    private int energiaMax,energia;
     
     public Robot(int energiaMax){
         this.energiaMax = energiaMax;
         energia = 0;
     }
     
-    public void cargarEenergia(){
+    public void cargarEnergia(){
         energia = energiaMax;
     }
     
